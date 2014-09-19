@@ -8,7 +8,7 @@ Please note that run_analysis.R is commented carefully to be readable by itself.
 
 The work presented here does NOT follow the order proposed in the assignment description as I found it more logical to complete the table first and only then to select colums requested (which was acknowledged by TA's to be OK).
 
-Note1: * Sorry about grammar or spelling errors - English is not my first language *
+Note1: *Sorry about grammar or spelling errors - English is not my first language*
 
 # run_analysis.R does following steps:
 
